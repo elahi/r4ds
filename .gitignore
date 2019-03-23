@@ -14,3 +14,9 @@ _main.*
 bookdown*
 tmp-pdfcrop-*
 figures
+
+
+# Robin
+.Rproj.user
+*.Rproj
+.DS_Store
